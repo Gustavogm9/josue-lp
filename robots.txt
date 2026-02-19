@@ -1,0 +1,5 @@
+# Robots.txt — Josué Henrique Consultoria
+User-agent: *
+Allow: /
+
+Sitemap: https://gustavogm9.github.io/josue-lp/sitemap.xml

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a0a"/>
+      <stop offset="100%" style="stop-color:#700505"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <line x1="400" y1="340" x2="800" y2="340" stroke="#a6918c" stroke-width="2" opacity="0.5"/>
+  <text x="600" y="280" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="white" text-anchor="middle" letter-spacing="8">JOSUÉ HENRIQUE</text>
+  <text x="600" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="24" fill="#a6918c" text-anchor="middle" letter-spacing="12" text-transform="uppercase">CONSULTORIA DE MARKETING E BRANDING</text>
+  <text x="600" y="450" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#a6918c" text-anchor="middle" letter-spacing="6" opacity="0.7">SÃO JOSÉ DO RIO PRETO — SP</text>
+</svg>
