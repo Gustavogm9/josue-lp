@@ -168,13 +168,16 @@ document.addEventListener('DOMContentLoaded', () => {
           const otherVideo = other.querySelector('video');
           if (otherVideo && otherVideo !== video) {
             otherVideo.pause();
+            otherVideo.muted = true;
             other.classList.remove('playing');
           }
         });
+        video.muted = false;
         video.play();
         item.classList.add('playing');
       } else {
         video.pause();
+        video.muted = true;
         item.classList.remove('playing');
       }
     });
