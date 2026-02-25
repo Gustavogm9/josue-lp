@@ -675,9 +675,8 @@ p {
   width: 24px;
   height: 24px;
   border-radius: 50%;
-  background: rgba(138, 26, 26, 0.15);
-  /* wine-light transparent */
-  color: var(--color-gold-accent);
+  background: var(--color-wine-dark);
+  color: var(--color-muted-light);
   font-size: 0.85rem;
   font-weight: bold;
   flex-shrink: 0;
