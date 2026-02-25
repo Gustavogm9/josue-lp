@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gustavogm9.github.io/josue-lp/sitemap.xml
+Sitemap: https://josuehenrique.com/sitemap.xml
